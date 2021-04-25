@@ -1,2 +1,2 @@
 # HW-SW
-Solo presentation
+Scheduling Pipelined Circuits
