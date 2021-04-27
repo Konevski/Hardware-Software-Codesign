@@ -1,4 +1,3 @@
-# HW-SW
 ## Scheduling Pipelined Circuits
 
 Part I - Introduction (2 pages)
@@ -20,7 +19,7 @@ Part III - Final Remarks (1 page)
 3. Listed sources
 
 
-# Main Sources:
+## Main Sources:
 https://www.wikiwand.com/en/Pipeline_(computing)
 https://www.wikiwand.com/en/Instruction_pipelining
 http://www.cs.cmu.edu/afs/cs/academic/class/15745-s06/web/handouts/11.pdf
