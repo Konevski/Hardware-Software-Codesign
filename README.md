@@ -5,7 +5,7 @@
 2. Why is it relevant?
 3. Motivation
 
-## Part II - Technical Details (4 pages)
+## Part II - Technical Details (3/4 pages)
 1. Instruction Scheduling
 2. Pipelined Computing 
 3. Pipelined Scheduling:
