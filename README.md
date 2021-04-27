@@ -1,4 +1,5 @@
 # Scheduling Pipelined Circuits
+## Preliminary Sketch
 
 ## Part I - Introduction (2 pages)
 1. What is it?
