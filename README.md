@@ -3,7 +3,7 @@
 ## Part I - Introduction (2 pages)
 1. What is it?
 2. Why is it relevant?
-3. Motivation
+3. Motivation related issues
 
 ## Part II - Technical Details (3/4 pages)
 1. Instruction Scheduling
