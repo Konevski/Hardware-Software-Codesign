@@ -1,5 +1,5 @@
 # HW-SW
-Scheduling Pipelined Circuits
+## Scheduling Pipelined Circuits
 
 Part I - Introduction (2 pages)
 1. What is it?
