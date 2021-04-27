@@ -6,8 +6,8 @@
 3. Motivation related issues
 
 ## Part II - Technical Details (3/4 pages)
-1. Instruction Scheduling
-2. Pipelined Computing 
+1. Pipelined Computing
+2. Instruction Scheduling 
 3. Pipelined Scheduling:
 - Structural Pipelining
 - Functional Pipelining
