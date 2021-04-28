@@ -1,5 +1,7 @@
-# Scheduling Pipelined Circuits
-## Preliminary Sketch
+Hardware/Software Codesing; Scheduling Pipelined Circuits
+
+
+# Preliminary Sketch
 
 ## Part I - Introduction (2 pages)
 1. What is it?
@@ -21,6 +23,8 @@
 
 
 # Main Sources:
+- C. Buttazzo, Hard real-time computing systems: predictable scheduling algorithms and applications, 3rd ed. New York: Springer, 2011
+- R. Mall, Real-Time Systems: Theory and Practice. 2009
 - https://www.wikiwand.com/en/Pipeline_(computing)
 - https://www.wikiwand.com/en/Instruction_pipelining
 - http://www.cs.cmu.edu/afs/cs/academic/class/15745-s06/web/handouts/11.pdf
