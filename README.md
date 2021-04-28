@@ -23,6 +23,7 @@ Hardware/Software Codesing; Scheduling Pipelined Circuits
 
 
 # Main Sources:
+- G. De Micheli, Synthesis and Optimization of Digital Circuits
 - C. Buttazzo, Hard real-time computing systems: predictable scheduling algorithms and applications, 3rd ed. New York: Springer, 2011
 - R. Mall, Real-Time Systems: Theory and Practice. 2009
 - https://www.wikiwand.com/en/Pipeline_(computing)
