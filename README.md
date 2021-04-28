@@ -14,6 +14,7 @@ Hardware/Software Codesing; Scheduling Pipelined Circuits
 3. Pipelined Scheduling:
 - Structural Pipelining
 - Functional Pipelining
+- Loop Folding
 4. In-depth analysis of some examples
 
 ## Part III - Final Remarks (1 page)
